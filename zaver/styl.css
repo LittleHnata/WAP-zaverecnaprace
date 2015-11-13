@@ -1,0 +1,44 @@
+#container{           
+          margin:0 auto;
+          border-style:solid;
+          width:900px;
+          height:645px;
+          }
+#navigace {
+           position:absolute;
+           float:left;
+           left:800px;
+           width:165px;
+           height:75px;
+           top:575px;
+          }
+#nadpis{
+        top: 10px;
+        width:900px;
+        height:50px;
+        font-size: 48px;
+        display: block;
+        text-align: center;
+       }
+       
+#levysloupec{
+             display:inline;
+             width:425px;
+             height:500px;
+             float:left;
+             padding:20px 10px;
+            }
+#pravysloupec{
+              display:inline;
+             width:425px;
+             height:500px;
+             float:left;
+             padding:20px 10px;
+             }
+#obsah{
+      
+      }
+#uvod{
+     
+     }
+          
